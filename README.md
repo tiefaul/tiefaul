@@ -4,10 +4,6 @@
 - 💞️ I’m looking to collaborate on anything that interest me.
 - 📫 You can reach me with my email at tylerfaulhaber@gmail.com
 
-'''python
-print('Hello world')
-'''
-
 <!---
 tiefaul/tiefaul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
